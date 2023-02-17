@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S1nch
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Python and C#
+- 👀 I’m interested in WEB Development
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 
 <!---
 S1nch/S1nch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
